@@ -1,0 +1,25 @@
+table,th,td{
+	         border:3px solid black;
+			 border-collapse:collapse;
+			 margin:auto;
+			 }
+body{
+	color:black;
+	background-color:#ccffff;
+}
+h2{
+	color:black;
+}
+
+th{
+	color:white;
+	background-color:#036;
+}
+td{
+	background-color:#699;
+}
+.about{
+	margin:10px;
+}
+
+	
